@@ -1,0 +1,19 @@
+{
+    "name": "heatapplied/php-util",
+    "type": "library",
+    "description": "Heat Applied Graphic Technologies Utilities",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jesse Pechart",
+            "email": "jpechart@datahandlerllc.com",
+            "homepage": "https://www.datahandlerllc.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HeatApplied\\Util\\": "src/HeatApplied/Util"
+        }
+    }
+}
